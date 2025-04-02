@@ -4,12 +4,12 @@ Status: 🟡 In Progress
 
 Welcome to my first repository! This will be a beginner-friendly guide to essential computer networking concepts. 
 
-Aim : To Introduce some basic necessaray conecepts and let the viewer expand their own understanding
-        without overfeedint the viewers into the "intermediate concept" stuff
+Aim:
+To introduce some basic, necessary concepts and help viewers expand their own understanding without overwhelming them with intermediate topics.
 
-
-Aim to : * Introduce fundamental networking concepts in a simple, digestible way.   
-         * Encourage self-learning by providing clear starting points.
+Goals:
+Introduce fundamental networking concepts in a simple, digestible way.
+Encourage self-learning by providing clear starting points and resources.
 
 You can directly acces the roadmap here : https://roadmap.sh/r/my-personal-basic-networking-roadmap
 
