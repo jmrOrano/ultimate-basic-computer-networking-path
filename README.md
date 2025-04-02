@@ -1,6 +1,6 @@
 # Ultimate Basic Computer Networking Path
 
-Status: 🟡 In Progress
+<bold>Status<bold>: 🟡 In Progress
 
 Welcome to my first repository! This will be a beginner-friendly guide to essential computer networking concepts. 
 
