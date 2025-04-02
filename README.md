@@ -8,8 +8,9 @@ Aim:
 To introduce some basic, necessary concepts and help viewers expand their own understanding without overwhelming them with intermediate topics.
 
 Goals:
-Introduce fundamental networking concepts in a simple, digestible way.
-Encourage self-learning by providing clear starting points and resources.
+*Introduce fundamental networking concepts in a simple, digestible way.
+
+*Encourage self-learning by providing clear starting points and resources.
 
 You can directly acces the roadmap here : https://roadmap.sh/r/my-personal-basic-networking-roadmap
 
